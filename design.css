@@ -1,0 +1,21 @@
+
+body{
+	background-image: url('download.jpeg');
+	background-color: transparent;
+  size: 7000px;
+}
+fieldset{
+	background-color: aqua;
+	width: 500px;
+	height: 700px;
+}
+input{
+	width: 110px;
+	height: 20px;
+}
+label{
+	color: black;
+	size: 20px;
+	align-self: flex-end;
+
+}
